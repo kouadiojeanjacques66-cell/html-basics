@@ -1,0 +1,6 @@
+#blue-bordered { 
+    border: 3px solid #007bff;
+    padding: 15px;
+    border-radius: 8px;
+    font-family: sans-serif;
+}
